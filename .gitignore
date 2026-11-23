@@ -1,0 +1,10 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project state
+.Rproj.user/
+
+# R output
+Rplots.pdf
